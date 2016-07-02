@@ -27,7 +27,9 @@
 
 #pragma mark -
 #pragma mark Lifecycle methods
-
+/**
+ *  rogen
+ */
 //- (void)viewDidLoad {
 //	NSView *content = [[self.view subviews] objectAtIndex:0];
 //#if SCREENSHOT_MODE
